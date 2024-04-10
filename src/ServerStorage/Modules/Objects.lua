@@ -1,0 +1,5 @@
+return {
+    "Sword";
+    "Coins";
+    "Nothing"
+}
