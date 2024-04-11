@@ -1,5 +1,7 @@
 return {
     "Sword";
     "Coins";
-    "Nothing"
+    "Stick";
+    "Shield";
+    "Nothing";
 }
